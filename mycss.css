@@ -1,0 +1,13 @@
+body{
+		
+		font-family: 'Roboto Slab', serif;;
+		text-align:center;
+	}	
+		.showpink {
+			color:pink;
+			text-align: left;
+		}
+		#hahaha {
+			text-align:right;
+			color : blue
+		}
